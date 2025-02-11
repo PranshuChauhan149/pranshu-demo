@@ -1,2 +1,4 @@
 # pranshu-demo
-this is my first Repositiory. Autor  - Pranshu Chauhan
+this is my first Repositiory.
+<br>
+Autor  - Pranshu Chauhan
